@@ -8,8 +8,8 @@ class AppRouter extends React.Component{
     render(){
         return(
             <Router>
-                <Route path='/about' component={About}/>
-                <Route exact path='/' component={Home}/>
+                <Route path='https://muhammadzubair786.github.io/Main-page/about' component={About}/>
+                <Route exact path='https://muhammadzubair786.github.io/Main-page/' component={Home}/>
 
             </Router>
         )

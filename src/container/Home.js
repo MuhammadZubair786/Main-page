@@ -6,7 +6,7 @@ export default class Home extends React.Component{
         return(
             <div>
                 <h1>Home Page</h1>
-            <Link to='/about'>Go To About  Page</Link>
+            <Link to='https://muhammadzubair786.github.io/Main-page/about'>Go To About  Page</Link>
             </div>
             
         )

@@ -3,7 +3,7 @@ import React from 'react'
 import {Link} from "react-router-dom";
 export default class About extends React.Component{
     gotohome = () =>{
-        this.props.history.push('/')
+        this.props.history.push('https://muhammadzubair786.github.io/Main-page/')
     }
     render(){
         return(
